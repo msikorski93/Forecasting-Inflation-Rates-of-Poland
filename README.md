@@ -3,7 +3,7 @@ Recently inflation is a popular topic in Poland and is highest since the 90s. Ex
 
 * New update for March 2023.
 
-![march_2023](https://user-images.githubusercontent.com/45270023/225766211-f296566f-8533-42d0-bca1-dc0778071712.jpg)
+![march_2023](https://user-images.githubusercontent.com/45270023/225881806-0ef77db7-9e9a-426d-88c2-0291da383201.jpg)
 
 * The November 2022 is an updated and much fresher version of the forecast. It contains a SARIMA implementation.
 
